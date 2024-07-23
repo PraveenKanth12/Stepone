@@ -54,7 +54,7 @@ function Button({textColor,bgcolor,onClick,children}){
 function StepMessage({step,children}){
   return(
     <div>
-      <h3>Step {step}:</h3>
+      <h3>Steppamaar {step}:</h3>
       {children}
 
     </div>
